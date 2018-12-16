@@ -1,4 +1,4 @@
-package com.utils.txt;
+package com.flysnow.tools.txt;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -6,9 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.utils.xml.XmlUtils;
-
-public class HandleAction {
+public class HandleActionTool {
 
     public static final String FILEPATH = "D:\\workspaceIdea\\woohTemp\\wooh-basic\\src\\main\\java\\com\\wooh\\basicsys\\action";
 

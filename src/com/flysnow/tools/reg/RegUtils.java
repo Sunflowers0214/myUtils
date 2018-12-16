@@ -1,4 +1,4 @@
-package com.utils.reg;
+package com.flysnow.tools.reg;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

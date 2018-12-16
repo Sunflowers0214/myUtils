@@ -1,4 +1,4 @@
-package com.utils.xml;
+package com.flysnow.tools.xml;
 
 import java.io.File;
 import java.io.IOException;
